@@ -14,5 +14,5 @@ Folders :
 
 For testing, run the init.py file with the image being tested is sent as argument in the command line.
 
-Server Script will be uploaded soon, that will automate the whole process
+Server Script and other scripts will be uploaded soon, that will automate the whole process.
 
