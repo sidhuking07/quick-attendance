@@ -2,6 +2,8 @@ import subprocess
 import sys
 import os
 
+#img_file will be recieved at the server from the android phone and will be passed as an argument to the init.py file
+
 if len(sys.argv)>1:
 	file = sys.argv[1]
 img_file = str(file)
